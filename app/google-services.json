@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "865516758989",
+    "firebase_url": "https://autenticador-d7820.firebaseio.com",
+    "project_id": "autenticador-d7820",
+    "storage_bucket": "autenticador-d7820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865516758989:android:11c2d7f4ee59bb7b",
+        "android_client_info": {
+          "package_name": "com.fastec.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865516758989-riod9f5op5q4uq79l7kjq099uhqgvclh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fastec.autenticador",
+            "certificate_hash": "7d5b3fa072546d0e62adb2dd55e9eafca1a6a7d0"
+          }
+        },
+        {
+          "client_id": "865516758989-l1urnr47n7jv0gdda7ggiracthut0aib.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "865516758989-l1urnr47n7jv0gdda7ggiracthut0aib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vCpDru8nLGDxkUhot-wwIryf6fFMaiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865516758989-l1urnr47n7jv0gdda7ggiracthut0aib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
